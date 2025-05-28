@@ -22,8 +22,7 @@ body{
 
 .conteiner{
     margin: 10px 0px 0px 0px;
-    border: solid;
-    background-color: rgb(243, 231, 248);
+    background-color: rgba(255, 245, 203, 0.575);
 }
 
 .front-title{
@@ -44,7 +43,7 @@ body{
     text-align: center;
 }
 .line{
-    background-color: rgb(241, 220, 253);
+    background-color: rgba(255, 245, 203, 0.884);
     padding: 12px;
     margin: 10px 0px 0px 0px;
     text-align: center;
@@ -57,7 +56,7 @@ body{
 }
 .cont-actividades{
     padding: 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0);
 }
 .footer{
     position: sticky;
