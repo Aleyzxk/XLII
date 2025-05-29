@@ -72,3 +72,7 @@ a{
     color: beige;
     font-size: 1.2rem;
 }
+.nav-item.dropdown:hover > .dropdown-menu{
+    display: block;
+    margin-top: 0;
+}
